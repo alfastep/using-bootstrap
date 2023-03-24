@@ -1,0 +1,24 @@
+header {
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+
+#about,
+#features {
+  color: #07222B;
+}
+
+#features {
+  background-color: #F8F9FA;
+}
+
+#footer {
+  background-color: #07222B !important;
+  color: white;
+}
+
+.btn {
+  background-color: #4BA84F !important;
+  color: white !important;
+}
